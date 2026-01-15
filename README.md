@@ -25,6 +25,7 @@ This project predicts customer churn using Machine Learning and deploys the mode
    http://127.0.0.1:5000/
 
 ## Output
+You can see the output here : https://customer-churn-vlco.onrender.com/
 User inputs customer details and receives churn prediction instantly.
 
 ## Author
